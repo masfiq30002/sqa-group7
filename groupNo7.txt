@@ -17,7 +17,7 @@ Question 3.
 I am Rofiqul Islam ID 30001
 Answer:
 this change is made by masfiq This Change is made by Rafiq
-I am Hasib Al Zadid. Id 30009. 
+This Change is made by Rafiq 
 I am Rofiqul Islam ID 30001
 changed by farhan30004 from golam_b2 branch in local machine
 I am Hasib Al Zadid. Id 30009.
